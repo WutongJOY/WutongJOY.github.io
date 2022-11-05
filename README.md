@@ -1,4 +1,4 @@
-# wutongjoy.github.io
+# Look The Chinese Parasol
 #11月4日  
 看着老师用自己的博客来教学，于是我就想试试来做个网页来记录vlog  
 但是发现都是英文，搞半天才把这几句话给打出来  
